@@ -6,8 +6,8 @@
         4096,
         337
       ],
-      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/blob/main/sempooling/records_4096_large.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/blob/main/sempooling/meta_4096_large.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/sempooling/records_4096_large.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/sempooling/meta_4096_large.tsv"
     }
   ]
 }

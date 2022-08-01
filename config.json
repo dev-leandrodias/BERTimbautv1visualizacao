@@ -1,7 +1,16 @@
 {
   "embeddings": [
     {
-      "tensorName": "Embeddings: concat 4 últimas camadas BERTimbau large",
+      "tensorName": "Exemplo TCC: concat 4 últimas camadas BERTimbau large",
+      "tensorShape": [
+        4096,
+        337
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/sempooling/records_4096_large.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/sempooling/meta_4096_large.tsv"
+    },
+    {
+      "tensorName": "As Vítimas-Algozes: concat 4 últimas camadas BERTimbau large",
       "tensorShape": [
         4096,
         337

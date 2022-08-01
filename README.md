@@ -1,4 +1,4 @@
-# Visualização dos Embeddings do Cohebert
+# Visualização dos Embeddings do obras literárias
 
 Visualização dos embeddings de Obras Literárias geradas pelo BERTimbau utilizando o Embedding Projector.
 https://projector.tensorflow.org/

@@ -8,15 +8,6 @@
       ],
       "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool.tsv",
       "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool.tsv"
-    },
-    {
-      "tensorName": "As Vítimas-Algozes: concat 4 últimas BERTimbau base",
-      "tensorShape": [
-        3072,
-        337
-      ],
-      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_vitimas_algozes.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_vitimas_algozes.tsv"
     }
   ]
 }

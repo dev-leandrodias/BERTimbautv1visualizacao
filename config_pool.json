@@ -15,8 +15,8 @@
         3072,
         337
       ],
-      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv"
     }
   ]
 }

@@ -10,13 +10,23 @@
       "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool.tsv"
     },
     {
-      "tensorName": "Obra Cap SIMEAO O CRIOULO - VI: concat 4 últimas BERTimbau base",
+      "tensorName": "Cap SIMEAO O CRIOULO: concat 4 últimas BERTimbau base",
       "tensorShape": [
         3072,
         337
       ],
       "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv",
       "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv"
+    }
+    ,
+    {
+      "tensorName": "Cap PAI- RAIOL, O FEITICEIRO: concat 4 últimas BERTimbau base",
+      "tensorShape": [
+        3072,
+        337
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_cap_PAI_RAIOL_O_FEITICEIRO.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_cap_PAI_RAIOL_O_FEITICEIRO.tsv"
     }
   ]
 }

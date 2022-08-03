@@ -10,7 +10,7 @@ Os arquivos utilizados pelo visualizados estão divididos em duas pastas: **"com
 
 
 **Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
-<https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config.json>
+<https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config_pool.json>
 
 ## Geração dos arquivos
 

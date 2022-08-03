@@ -10,13 +10,13 @@
       "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool.tsv"
     },
     {
-      "tensorName": "Cap SIMEAO O CRIOULO - VI: concat 4 últimas BERTimbau base",
+      "tensorName": "Obra Cap SIMEAO O CRIOULO - VI: concat 4 últimas BERTimbau base",
       "tensorShape": [
         3072,
         337
       ],
-      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_SIMEAO_O_CRIOULO_VI.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_SIMEAO_O_CRIOULO_VI.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv"
     }
   ]
 }

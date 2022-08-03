@@ -6,8 +6,8 @@
         3072,
         337
       ],
-      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool.tsv"
     },
     {
       "tensorName": "Obra Cap SIMEAO O CRIOULO - VI: concat 4 últimas BERTimbau base",

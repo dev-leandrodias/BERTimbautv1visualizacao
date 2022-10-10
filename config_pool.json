@@ -6,8 +6,8 @@
         940,
         1024
       ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_0.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_0.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_0.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_0.tsv"
     },
     {
       "tensorName": "Janela de sentenças de tamanho 3 contendo palavra \"negro\": da última BERTimbau Large",
@@ -15,8 +15,8 @@
         108,
         1024
       ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_1.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_1.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_1.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_1.tsv"
     },
     {
       "tensorName": "Janela de sentenças de tamanho 5 contendo palavra \"negro\": da última BERTimbau Large",
@@ -24,8 +24,8 @@
         82,
         1024
       ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_2.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_2.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_2.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_2.tsv"
     },
     {
       "tensorName": "Janela de sentenças de tamanho 7 contendo palavra \"negro\": da última BERTimbau Large",
@@ -33,8 +33,8 @@
         69,
         1024
       ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_3.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_3.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_3.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_3.tsv"
     },
     {
       "tensorName": "Janela de sentenças de tamanho 9 contendo palavra \"negro\": da última BERTimbau Large",
@@ -42,8 +42,8 @@
         57,
         1024
       ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_4.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_4.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_4.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_4.tsv"
     },
     {
       "tensorName": "Janela de sentenças de tamanho 11 contendo palavra \"negro\": da última BERTimbau Large",
@@ -51,8 +51,8 @@
         50,
         1024
       ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_5.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_5.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_5.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_5.tsv"
     },
     {
       "tensorName": "Janela de sentenças de tamanho 13 contendo palavra \"negro\": da última BERTimbau Large",
@@ -60,8 +60,8 @@
         47,
         1024
       ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_6.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_6.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_6.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_6.tsv"
     }
   ]
 }

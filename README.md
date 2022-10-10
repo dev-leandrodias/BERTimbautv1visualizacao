@@ -7,13 +7,13 @@ Os arquivos utilizados pelo visualizador esta disponivel na pasta: **"compooling
 
 
 ## A pasta **"compooling"** possui 7 versões de tamanhos de janelas:
-- 0 - Visualizaçaõ de todas as janela de tamanho 3 ate 13 com palavra negro
-- 1 - Visualizaçaõ da janela de tamanho 3 com palavra negro
-- 2 - Visualizaçaõ da janela de tamanho 5 com palavra negro
-- 3 - Visualizaçaõ da janela de tamanho 7 com palavra negro
-- 4 - Visualizaçaõ da janela de tamanho 9 com palavra negro
-- 5 - Visualizaçaõ da janela de tamanho 11 com palavra negro
-- 6 - Visualizaçaõ da janela de tamanho 13 com palavra negro
+- 0 - Visualização de todas as janela de tamanho 3 ate 13 com palavra negro
+- 1 - Visualização da janela de tamanho 3 com palavra negro
+- 2 - Visualização da janela de tamanho 5 com palavra negro
+- 3 - Visualização da janela de tamanho 7 com palavra negro
+- 4 - Visualização da janela de tamanho 9 com palavra negro
+- 5 - Visualização da janela de tamanho 11 com palavra negro
+- 6 - Visualização da janela de tamanho 13 com palavra negro
 
 
 **Link** para o Embedding Projector com pooling através do arquivo config_pool.json:

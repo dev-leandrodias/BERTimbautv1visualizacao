@@ -1,23 +1,45 @@
 {
   "embeddings": [
     {
-      "tensorName": "Cap SIMEAO O CRIOULO: concat 4 últimas BERTimbau base",
-      "tensorShape": [
-        16658,
-        4096
-      ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_cap_SIMEAO_O_CRIOULO.tsv"
-    }
-    ,
+      "tensorName": "Janela de sentenças contendo palavra \"negro\": da última BERTimbau Large",
+
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_0.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_0.tsv"
+    },
     {
-      "tensorName": "Cap PAI- RAIOL, O FEITICEIRO: concat 4 últimas BERTimbau base",
-      "tensorShape": [
-        7184,
-        4096
-      ],
-      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_4096_large_pool_cap_PAI_RAIOL_O_FEITICEIRO.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_4096_large_pool_cap_PAI_RAIOL_O_FEITICEIRO.tsv"
+      "tensorName": "Janela de sentenças de tamanho 3 contendo palavra \"negro\": da última BERTimbau Large",
+
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_1.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_1.tsv"
+    },
+    {
+      "tensorName": "Janela de sentenças de tamanho 5 contendo palavra \"negro\": da última BERTimbau Large",
+
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_2.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_2.tsv"
+    },
+    {
+      "tensorName": "Janela de sentenças de tamanho 7 contendo palavra \"negro\": da última BERTimbau Large",
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_3.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_3.tsv"
+    },
+    {
+      "tensorName": "Janela de sentenças de tamanho 9 contendo palavra \"negro\": da última BERTimbau Large",
+
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_4.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_4.tsv"
+    },
+    {
+      "tensorName": "Janela de sentenças de tamanho 11 contendo palavra \"negro\": da última BERTimbau Large",
+
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_5.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_5.tsv"
+    },
+    {
+      "tensorName": "Janela de sentenças de tamanho 13 contendo palavra \"negro\": da última BERTimbau Large",
+
+      "tensorPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/records_sentencedocumento_janela_6.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/dev-leandrodias/BERTimbautv1visualizacao/main/compooling/meta_sentencedocumento_janela_6.tsv"
     }
   ]
 }

@@ -3,7 +3,7 @@
 Visualização dos embeddings das janelas de sentenças comtendo a palavra **"negro"** na Obra As Vítimas-Algozes, de Joaquim Manuel de Macedo geradas pelo BERTimbau utilizando o Embedding Projector.
 https://projector.tensorflow.org/
 
-Os arquivos utilizados pelo visualizador esta disponivel na pasta: **"compooling"**.
+Os arquivos utilizados pelo visualizador estão disponivel na pasta: **"compooling"**.
 
 
 ## A pasta **"compooling"** possui 7 versões de tamanhos de janelas:

@@ -15,6 +15,24 @@ A janela é um fragmento de uma sentenças onde o centro desta janela é compost
 >
 > E o **__negro__** feiticeiro é	
 
+## Projeções dos embeddings das janelas
+Projeções dos embeddings das janelas consolidados pela média dos embeddings dos tokens. Os embeddings dos tokens são das última camadas do BERTimbau Large em português.
+
+### As projeções dos embeddings de sentenças estão relacionados com os seguintes metadados:
+
+- id	(Id da sentença) 
+    -  Ex:  id: **1, 2, 3**
+- Janela	(Fragmento da sentença) 
+    -  Ex:  Janela: **E o **__negro__** feiticeiro é	**
+- Sentence	(Sentença) 
+    -  Ex:  Sentence: **E o negro feiticeiro é um perigo real de todos os dias .**
+- tamanho da janela	(Número de tokens das janelas)
+    -  Ex:  tamanho da janela: **3, 5, 7**
+- Palavra alvo	(Palavra central da janela)
+    -  Ex:  Palavra alvo: **negro, negra, negros, negras**
+- Classe (Grupo da palavra alvo)
+  -  Ex: Classe **negro** se refere às palavras: **negro, negra, negros, negras**
+
 ## Links das visualizações 
 >### Visualizações de janelas com palavra central **"negro"**:
 >- [Visualização de todas as janelas de tamanhao 3 ate 19](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/1-alvo/all.json)

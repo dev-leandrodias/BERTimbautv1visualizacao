@@ -51,7 +51,18 @@ A janela é um fragmento de uma sentenças onde o centro desta janela é compost
 >- [Visualização da janela de tamanho 15](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/3-alvo/janela-15.json)
 >- [Visualização da janela de tamanho 17](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/3-alvo/janela-17.json)
 >- [Visualização da janela de tamanho 19](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/3-alvo/janela-19.json)
-
+>
+>### Visualizações de janelas com palavra central **"negro(a)"**, **"crioulo(a)"**, **"escravo(a)"**, **"criado(a)"**, **"escravo(a)"**, **"senhor(a)"**, **"branco(a)"**:
+<!-- >- [Visualização de todas as janelas de tamanhao 3 ate 19](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/3-alvo/all.json) -->
+>- [Visualização da janela de tamanho 3](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-3.json)
+>- [Visualização da janela de tamanho 5](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-5.json)
+>- [Visualização da janela de tamanho 7](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-7.json)
+>- [Visualização da janela de tamanho 9](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-9.json)
+>- [Visualização da janela de tamanho 11](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-11.json)
+>- [Visualização da janela de tamanho 13](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-13.json)
+>- [Visualização da janela de tamanho 15](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-15.json)
+>- [Visualização da janela de tamanho 17](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-17.json)
+>- [Visualização da janela de tamanho 19](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-19.json)
 
 <!-- **Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
 <https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/config/1-alvo.json> -->

@@ -126,7 +126,7 @@ Projeções dos embeddings das janelas consolidados pela média dos embeddings d
 >### Visualizações de sentrenças com palavra: **negro**, **negros**, **negrinho**, **negrinhos**, **negra**, **negras**,**negrinha**, **negrinhas**, **crioulo**, **crioulos**, **crioulinho**, **crioulinhos**, **crioula**, **crioulas**, **crioulinha**, **crioulinhas**, **mulato**, **mulatos**, **mulatinho**, **mulatinhos**, **mulata**, **mulatas**,**mulatinha**, **mulatinhas**, **criado**, **criados**, **criadinho**, **criadinhos**, **criada**, **criadas**, **criadinha**, **criadinhas**, **escravo**, **escravos**, **escravinho**, **escravinhos**, **escrava**, **escravas**, **escravinha**, **escravinhas**, **senhora**, **senhor**,**branco**, **branca**
 
 ## Geração dos arquivos
->- [Visualização das sentrenças](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/14-alvo/janela-19.json)
+>- [Visualização das sentrenças](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/todos-as-obras/all.json)
 
 
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/dev-leandrodias/BERTimbautv1visualizacao/blob/main/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb.

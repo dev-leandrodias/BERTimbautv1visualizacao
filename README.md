@@ -96,7 +96,7 @@ Projeções dos embeddings das janelas consolidados pela média dos embeddings d
 
 
 
-## Projeções dos embeddings das janelas
+## Projeções dos embeddings das sentenças
 Projeções dos embeddings das janelas consolidados pela média dos embeddings dos tokens. Os embeddings dos tokens são das última camadas do BERTimbau Large em português.
 
 ### As projeções dos embeddings de sentenças estão relacionados com os seguintes metadados:
@@ -127,6 +127,43 @@ Projeções dos embeddings das janelas consolidados pela média dos embeddings d
 
 ## Geração dos arquivos
 >- [Visualização das sentrenças](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/todos-as-obras/all.json)
+
+
+## Projeções dos embeddings das janelas
+
+Projeções dos embeddings das janelas consolidados pela média dos embeddings dos tokens. Os embeddings dos tokens são das última camadas do BERTimbau Large em português.
+
+### As projeções dos embeddings de sentenças estão relacionados com os seguintes metadados
+
+- id (Id da sentença)
+  - Ex:  id: **1, 2, 3**
+- Sentença (Sentença)
+  - Ex:  Sentence: **E o negro feiticeiro é um perigo real de todos os dias .**
+- Janela (Fragmento da sentença)
+  - Ex:  Janela: **E o *negro* feiticeiro é**
+- Posição da palavra alvo ( é a possição que se encontra a palavra alvo dentro da sentença)
+  - Ex:  Posição da palavra alvo: **3, 5, 7**
+- Palavra alvo (palavra alvo)
+  - Ex: Palavra alvo: **negro, negra, negros, negras**
+- Classe (Grupo da palavra alvo)
+  - Ex: Classe **negro** se refere às palavras: **negro, negra, negros, negras**
+- Obra (Nome da Obra literaria)
+  - Ex: Obra: **A Escrava Isaura**
+- Autor (Nome do autor)
+  - Ex: Autor: **Maria Firmina**
+- Ano (Ano de publicação)
+  - Ex: Ano: **1869**
+- Movimento (Movimento literario da obra)
+  - Ex: Movimento: **Realismo**
+- tamanho sentença (numero de palavras e/ou simbolos da sentenas.)
+  - Ex: tamanho sentença: **35**
+
+>### Visualizações de sentrenças com palavra: **negro**, **negros**, **negrinho**, **negrinhos**, **negra**, **negras**,**negrinha**, **negrinhas**, **crioulo**, **crioulos**, **crioulinho**, **crioulinhos**, **crioula**, **crioulas**, **crioulinha**, **crioulinhas**, **mulato**, **mulatos**, **mulatinho**, **mulatinhos**, **mulata**, **mulatas**,**mulatinha**, **mulatinhas**, **criado**, **criados**, **criadinho**, **criadinhos**, **criada**, **criadas**, **criadinha**, **criadinhas**, **escravo**, **escravos**, **escravinho**, **escravinhos**, **escrava**, **escravas**, **escravinha**, **escravinhas**, **senhora**, **senhor**,**branco**, **branca**
+
+## Geração dos arquivos
+>
+>- [Visualização da janelas tamanho 7](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/todos-as-obras/janelas-7.json)
+
 
 
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/dev-leandrodias/BERTimbautv1visualizacao/blob/main/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb.

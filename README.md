@@ -155,7 +155,7 @@ Projeções dos embeddings das janelas consolidados pela média dos embeddings d
   - Ex: Ano: **1869**
 - Movimento (Movimento literario da obra)
   - Ex: Movimento: **Realismo**
-- tamanho sentença (numero de palavras e/ou simbolos da sentenas.)
+- tamanho janela (numero de palavras e/ou simbolos da sentenas.)
   - Ex: tamanho sentença: **35**
 
 >### Visualizações de sentrenças com palavra: **negro**, **negros**, **negrinho**, **negrinhos**, **negra**, **negras**,**negrinha**, **negrinhas**, **crioulo**, **crioulos**, **crioulinho**, **crioulinhos**, **crioula**, **crioulas**, **crioulinha**, **crioulinhas**, **mulato**, **mulatos**, **mulatinho**, **mulatinhos**, **mulata**, **mulatas**,**mulatinha**, **mulatinhas**, **criado**, **criados**, **criadinho**, **criadinhos**, **criada**, **criadas**, **criadinha**, **criadinhas**, **escravo**, **escravos**, **escravinho**, **escravinhos**, **escrava**, **escravas**, **escravinha**, **escravinhas**, **senhora**, **senhor**,**branco**, **branca**

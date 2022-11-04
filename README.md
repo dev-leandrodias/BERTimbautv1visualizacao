@@ -162,7 +162,7 @@ Projeções dos embeddings das janelas consolidados pela média dos embeddings d
 
 ## Geração dos arquivos
 >
->- [Visualização da janelas tamanho 7](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/todos-as-obras/janelas-7.json)
+>- [Visualização da janelas tamanho 7](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dev-leandrodias/BERTimbautv1visualizacao/main/config/todos-as-obras-janela-7/janelas-7.json)
 
 
 
